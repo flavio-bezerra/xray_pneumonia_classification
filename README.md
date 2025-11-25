@@ -1,6 +1,6 @@
 # 🫁 Detecção de Pneumonia com Inteligência Artificial
 
-![Streamlit App Preview](data/streamlit_page.png)
+![Streamlit App Preview](streamlit_page.png)
 
 Bem-vindo! Este projeto utiliza Inteligência Artificial para auxiliar na identificação de pneumonia em radiografias de tórax.
 
